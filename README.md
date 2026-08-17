@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1260-shift-2d-grid](https://github.com/Rohandede1825/LeetCode/tree/master/1260-shift-2d-grid) |
 | [1406-stone-game-iii](https://github.com/Rohandede1825/LeetCode/tree/master/1406-stone-game-iii) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Rohandede1825/LeetCode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [1563-stone-game-v](https://github.com/Rohandede1825/LeetCode/tree/master/1563-stone-game-v) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/Rohandede1825/LeetCode/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/Rohandede1825/LeetCode/tree/master/3501-maximize-active-section-with-trade-ii) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/Rohandede1825/LeetCode/tree/master/3513-number-of-unique-xor-triplets-i) |
@@ -61,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0486-predict-the-winner](https://github.com/Rohandede1825/LeetCode/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/Rohandede1825/LeetCode/tree/master/0877-stone-game) |
 | [1406-stone-game-iii](https://github.com/Rohandede1825/LeetCode/tree/master/1406-stone-game-iii) |
+| [1563-stone-game-v](https://github.com/Rohandede1825/LeetCode/tree/master/1563-stone-game-v) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Rohandede1825/LeetCode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/Rohandede1825/LeetCode/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/Rohandede1825/LeetCode/tree/master/3348-smallest-divisible-digit-product-ii) |
@@ -115,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0486-predict-the-winner](https://github.com/Rohandede1825/LeetCode/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/Rohandede1825/LeetCode/tree/master/0877-stone-game) |
 | [1406-stone-game-iii](https://github.com/Rohandede1825/LeetCode/tree/master/1406-stone-game-iii) |
+| [1563-stone-game-v](https://github.com/Rohandede1825/LeetCode/tree/master/1563-stone-game-v) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/Rohandede1825/LeetCode/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 ## Recursion
 |  |
@@ -126,6 +129,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0486-predict-the-winner](https://github.com/Rohandede1825/LeetCode/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/Rohandede1825/LeetCode/tree/master/0877-stone-game) |
 | [1406-stone-game-iii](https://github.com/Rohandede1825/LeetCode/tree/master/1406-stone-game-iii) |
+| [1563-stone-game-v](https://github.com/Rohandede1825/LeetCode/tree/master/1563-stone-game-v) |
 ## Depth-First Search
 |  |
 | ------- |
