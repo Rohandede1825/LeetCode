@@ -82,6 +82,9 @@ class Solution {
         return low;
     }
 
+
+    
+
     private long gcd(long a, long b) {
         while (b != 0) {
             long temp = a % b;
