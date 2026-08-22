@@ -1,31 +1,46 @@
-
-
-        
-    
 class Solution {
-        public int stoneGameII(int[] piles) {
-                int n = piles.length;
-                        
-                                int[][] dp = new int[n][n + 1];
-                                        int[] suffixSum = new int[n];
-                                                suffixSum[n - 1] = piles[n - 1];
-                                                        
-                                                                for (int i = n - 2; i >= 0; i--) {
-                                                                            suffixSum[i] = suffixSum[i + 1] + piles[i];
-                                                                                    }
-                                                                                            
-                                                                                                    for (int i = n - 1; i >= 0; i--) {
-                                                                                                                for (int m = 1; m <= n; m++) {
-                                                                                                                                if (i + 2 * m >= n) {
-                                                                                                                                                    dp[i][m] = suffixSum[i];
-                                                                                                                                                                    } else {
-                                                                                                                                                                                        for (int x = 1; x <= 2 * m; x++) {
-                                                                                                                                                                                                                dp[i][m] = Math.max(dp[i][m], suffixSum[i] - dp[i + x][Math.max(m, x)]);
-                                                                                                                                                                                                                                    }
-                                                                                                                                                                                                                                                    }
-                                                                                                                                                                                                                                                                }
-                                                                                                                                                                                                                                                                        }
-                                                                                                                                                                                                                                                                                
-                                                                                                                                                                                                                                                                                        return dp[0][1];
-                                                                                                                                                                                                                                                                                            }
-                                                                                                                                                                                                                                                                                        }
+
+    private int[][] memo;
+    private int[] suffix;
+    private int n;
+
+    public int stoneGameII(int[] piles) {
+
+        n = piles.length;
+
+        suffix = new int[n + 1];
+
+        for (int i = n - 1; i >= 0; i--) {
+            suffix[i] = suffix[i + 1] + piles[i];
+        }
+
+        memo = new int[n][n + 1];
+
+        return dfs(0, 1);
+    }
+
+    private int dfs(int i, int M) {
+
+        if (i >= n)
+            return 0;
+
+        if (2 * M >= n - i)
+            return suffix[i];
+
+        if (memo[i][M] != 0)
+            return memo[i][M];
+
+        int best = 0;
+
+        for (int X = 1; X <= 2 * M; X++) {
+
+            best = Math.max(
+                    best,
+                    suffix[i] - dfs(i + X, Math.max(M, X))
+            );
+        }
+
+        memo[i][M] = best;
+        return best;
+    }
+}
