@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0486-predict-the-winner](https://github.com/Rohandede1825/LeetCode/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/Rohandede1825/LeetCode/tree/master/0877-stone-game) |
+| [1140-stone-game-ii](https://github.com/Rohandede1825/LeetCode/tree/master/1140-stone-game-ii) |
 | [1260-shift-2d-grid](https://github.com/Rohandede1825/LeetCode/tree/master/1260-shift-2d-grid) |
 | [1386-cinema-seat-allocation](https://github.com/Rohandede1825/LeetCode/tree/master/1386-cinema-seat-allocation) |
 | [1406-stone-game-iii](https://github.com/Rohandede1825/LeetCode/tree/master/1406-stone-game-iii) |
@@ -66,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0012-integer-to-roman](https://github.com/Rohandede1825/LeetCode/tree/master/0012-integer-to-roman) |
 | [0486-predict-the-winner](https://github.com/Rohandede1825/LeetCode/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/Rohandede1825/LeetCode/tree/master/0877-stone-game) |
+| [1140-stone-game-ii](https://github.com/Rohandede1825/LeetCode/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/Rohandede1825/LeetCode/tree/master/1406-stone-game-iii) |
 | [1563-stone-game-v](https://github.com/Rohandede1825/LeetCode/tree/master/1563-stone-game-v) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Rohandede1825/LeetCode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
@@ -128,6 +130,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0486-predict-the-winner](https://github.com/Rohandede1825/LeetCode/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/Rohandede1825/LeetCode/tree/master/0877-stone-game) |
+| [1140-stone-game-ii](https://github.com/Rohandede1825/LeetCode/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/Rohandede1825/LeetCode/tree/master/1406-stone-game-iii) |
 | [1563-stone-game-v](https://github.com/Rohandede1825/LeetCode/tree/master/1563-stone-game-v) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/Rohandede1825/LeetCode/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
@@ -140,6 +143,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0486-predict-the-winner](https://github.com/Rohandede1825/LeetCode/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/Rohandede1825/LeetCode/tree/master/0877-stone-game) |
+| [1140-stone-game-ii](https://github.com/Rohandede1825/LeetCode/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/Rohandede1825/LeetCode/tree/master/1406-stone-game-iii) |
 | [1563-stone-game-v](https://github.com/Rohandede1825/LeetCode/tree/master/1563-stone-game-v) |
 ## Depth-First Search
@@ -175,4 +179,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/Rohandede1825/LeetCode/tree/master/3090-maximum-length-substring-with-two-occurrences) |
+## Minimax
+|  |
+| ------- |
+| [1140-stone-game-ii](https://github.com/Rohandede1825/LeetCode/tree/master/1140-stone-game-ii) |
+## Prefix Sum
+|  |
+| ------- |
+| [1140-stone-game-ii](https://github.com/Rohandede1825/LeetCode/tree/master/1140-stone-game-ii) |
+## Zero-Sum Game
+|  |
+| ------- |
+| [1140-stone-game-ii](https://github.com/Rohandede1825/LeetCode/tree/master/1140-stone-game-ii) |
 <!---LeetCode Topics End-->
