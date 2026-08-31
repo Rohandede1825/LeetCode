@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Rohandede1825/LeetCode/tree/master/0001-two-sum) |
+| [0064-minimum-path-sum](https://github.com/Rohandede1825/LeetCode/tree/master/0064-minimum-path-sum) |
 | [0486-predict-the-winner](https://github.com/Rohandede1825/LeetCode/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/Rohandede1825/LeetCode/tree/master/0877-stone-game) |
 | [1140-stone-game-ii](https://github.com/Rohandede1825/LeetCode/tree/master/1140-stone-game-ii) |
@@ -29,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0064-minimum-path-sum](https://github.com/Rohandede1825/LeetCode/tree/master/0064-minimum-path-sum) |
 | [1260-shift-2d-grid](https://github.com/Rohandede1825/LeetCode/tree/master/1260-shift-2d-grid) |
 ## Simulation
 |  |
@@ -147,6 +149,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0064-minimum-path-sum](https://github.com/Rohandede1825/LeetCode/tree/master/0064-minimum-path-sum) |
 | [0486-predict-the-winner](https://github.com/Rohandede1825/LeetCode/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/Rohandede1825/LeetCode/tree/master/0877-stone-game) |
 | [1140-stone-game-ii](https://github.com/Rohandede1825/LeetCode/tree/master/1140-stone-game-ii) |
