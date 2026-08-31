@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/Rohandede1825/LeetCode/tree/master/0001-two-sum) |
 | [0486-predict-the-winner](https://github.com/Rohandede1825/LeetCode/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/Rohandede1825/LeetCode/tree/master/0877-stone-game) |
 | [1140-stone-game-ii](https://github.com/Rohandede1825/LeetCode/tree/master/1140-stone-game-ii) |
@@ -119,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/Rohandede1825/LeetCode/tree/master/0001-two-sum) |
 | [0012-integer-to-roman](https://github.com/Rohandede1825/LeetCode/tree/master/0012-integer-to-roman) |
 | [1386-cinema-seat-allocation](https://github.com/Rohandede1825/LeetCode/tree/master/1386-cinema-seat-allocation) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Rohandede1825/LeetCode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
