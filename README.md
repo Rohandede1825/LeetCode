@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/Rohandede1825/LeetCode/tree/master/0001-two-sum) |
 | [0064-minimum-path-sum](https://github.com/Rohandede1825/LeetCode/tree/master/0064-minimum-path-sum) |
 | [0486-predict-the-winner](https://github.com/Rohandede1825/LeetCode/tree/master/0486-predict-the-winner) |
+| [0835-image-overlap](https://github.com/Rohandede1825/LeetCode/tree/master/0835-image-overlap) |
 | [0877-stone-game](https://github.com/Rohandede1825/LeetCode/tree/master/0877-stone-game) |
 | [1140-stone-game-ii](https://github.com/Rohandede1825/LeetCode/tree/master/1140-stone-game-ii) |
 | [1260-shift-2d-grid](https://github.com/Rohandede1825/LeetCode/tree/master/1260-shift-2d-grid) |
@@ -37,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0064-minimum-path-sum](https://github.com/Rohandede1825/LeetCode/tree/master/0064-minimum-path-sum) |
+| [0835-image-overlap](https://github.com/Rohandede1825/LeetCode/tree/master/0835-image-overlap) |
 | [1260-shift-2d-grid](https://github.com/Rohandede1825/LeetCode/tree/master/1260-shift-2d-grid) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/Rohandede1825/LeetCode/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 ## Simulation
