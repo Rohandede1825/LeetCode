@@ -1,14 +1,10 @@
 class Solution {
     public int maxDepth(String s) {
-        int depth = 0, maxDepth = 0;
-        for (char c : s.toCharArray()) {
-            if (c == '(') {
-                depth++;
-                if (depth > maxDepth) maxDepth = depth;
-            } else if (c == ')') {
-                depth--;
-            }
+        int ans = 0, depth = 0;
+        for (char ch : s.toCharArray()) {
+            depth += ch == '(' ? 1 : ch == ')' ? -1 : 0;
+            ans = Math.max(ans, depth);
         }
-        return maxDepth;
+        return ans;
     }
 }
