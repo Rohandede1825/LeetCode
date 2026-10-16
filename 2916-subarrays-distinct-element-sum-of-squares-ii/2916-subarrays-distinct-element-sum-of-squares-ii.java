@@ -19,7 +19,7 @@ class Solution {
             lz[x]++;
             return;
         }
-        push(x, l, r);
+        // push(x, l, r);
         int m = (l + r) / 2;
         upd(2 * x, l, m, a, b);
         upd(2 * x + 1, m + 1, r, a, b);
